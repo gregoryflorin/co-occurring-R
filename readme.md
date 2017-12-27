@@ -1,2 +1,0 @@
-This script is about helping you to find which content you should create based on semrush keyword export.
-It will generate you a wordcloud with the co-occuring terms that are often associated with a keyword
